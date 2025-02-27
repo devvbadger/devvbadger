@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Badger</h1>
 <h3 align="center">A passionate Bachelor Of Science In Information System/s Student from the Philippines</h3>
 
-- 🔭 I’m currently working on a **Weather System**
-
-- 🌱 I’m currently learning **Java, Python, Web Development**
-
-- 👯 I’m looking to collaborate on **Cloud Native Projects**
-
-- 💬 Ask me about **Basic programming**
-
-- 📫 How to reach me **theeasybadger@gmail.com**
+Reach me **@theeasybadger@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
